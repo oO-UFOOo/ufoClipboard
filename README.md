@@ -28,7 +28,7 @@ pip install imagehash
 7. Make sure to stop the script if you don't need it anymore.
 
 If you like it , 
-1. make a shortcut of the script (shorctut target = "C:\path\to\pythonw.exe" "C:\path\to\clipboard_savior.py"
+1. make a shortcut of the script (shorctut target = "C:\path\to\pythonw.exe" "C:\path\to\ufoClipboard.py.py"
 2. copy to windows startup folder , so as to run on startup
 3. now you can sleep sleep calm.....
 
