@@ -27,7 +27,10 @@ pip install imagehash
 6. Run the script: Double-click the `ufoClipboard.py` file, and it will start running in the background, automatically saving your clipboard data.
 7. Make sure to stop the script if you don't need it anymore.
 
-If you like , make a shortcut of the script on windows startup folder, so as to sleep calm.....
+If you like it , 
+1. make a shortcut of the script (shorctut target = "C:\path\to\pythonw.exe" "C:\path\to\clipboard_savior.py"
+2. copy to windows startup folder , so as to run on startup
+3. now you can sleep sleep calm.....
 
 Enjoy!
 
